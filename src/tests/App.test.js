@@ -49,6 +49,3 @@ describe('O topo da aplicação contém um conjunto fixo de links de navegação
     expect(notFound).toBeDefined();
   });
 });
-
-// expect()).toBeDefined();
-// expect(screen.queryByRole('link', { name: 'Favorite Pokémons' })).toBeDefined();

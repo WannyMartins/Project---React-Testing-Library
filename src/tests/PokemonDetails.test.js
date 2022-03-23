@@ -55,5 +55,4 @@ describe('As informações detalhadas do Pokémon são mostradas na tela.', () =
     userEvent.click(marcarFavorito);
     expect(star).not.toBeInTheDocument();
   });
-
 });

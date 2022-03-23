@@ -113,5 +113,3 @@ describe('Teste se a Pokédex contém um botão para resetar o filtro', () => {
     expect(btnAll).not.toBeDisabled();
   });
 });
-
-// console.log("🚀 ~ file: Pokedex.test.js ~ line 91 ~ test ~ mapPokemon",     pokemons.map((pokemon) => pokemon.type));
